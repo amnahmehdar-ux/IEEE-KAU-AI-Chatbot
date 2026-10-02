@@ -1,0 +1,83 @@
+هيكل النادي والقيادة:
+المشرفة: د. هدى الغامدي
+الرئيسة: جود الحربي
+نائبة الرئيسة: جوري مسودي
+السكرتيرة: ريمان رقوش
+أمينة الصندوق: شجون البيشي
+
+قائدة قسم الموارد البشرية: ريم الوقداني
+قائدة قسم الإعلام والتسويق: ريماس الفقيه
+قائدة قسم العلاقات العامة: شجون البيشي
+قائدة قسم التقنية: رانيا المطيري
+مديرات المشاريع: ابتهال المطيري - ريناس عسيري - جنان المدفع
+قائدة المجتمع البحثي: لميس العلي
+
+
+Club Leadership:
+- Supervisor: Dr. Huda AlGhamdi
+- President: Joud Alharbi 
+- Vice President: Juri Maswadi
+
+
+فوائد الانضمام للنادي:
+اكتساب خبرات عملية في التصميم والتخطيط وإدارة الفعاليات
+تطوير المهارات التقنية والبرمجية
+إضافة تجربة العمل في مؤسسة عالمية لسجل الأعمال
+بناء شبكة علاقات مهنية واجتماعية
+
+
+
+# Add this to your club_info.txt — it fixes the form link and contact info
+
+حسابات التواصل الاجتماعي الرسمية للنادي:
+البريد الإلكتروني للتواصل مع النادي: kau.ieee.sb@gmail.com
+حساب X وتويتر: https://x.com/ieee_kau_sb
+حساب لينكد إن: https://www.linkedin.com/in/ieee-kau-sb-female-902947288?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+لمتابعة مشاريع واعمال IEEE:
+رابط الانضمام لمجتمع IEEE على الواتساب: https://chat.whatsapp.com/GKG7i7OLUiVEnxvPRKOZdB?mode=gi_t
+
+
+
+# ADD THIS BLOCK to the bottom of data/extra_docs/club_info.txt
+
+المهارات المكتسبة من الانضمام للنادي:
+- مهارات التصميم الجرافيكي وصناعة المحتوى
+- مهارات بناء المواقع الإلكترونية والبرمجة
+- مهارات التخطيط وتنظيم الفعاليات
+- مهارات القيادة وإدارة الفرق
+- مهارات التواصل والعمل الجماعي
+- مهارات التسويق والإعلام الرقمي
+- بناء شبكة علاقات مهنية واجتماعية
+- اكتساب خبرة عملية في مؤسسة عالمية
+
+Skills gained from joining the IEEE club:
+- Graphic design and content creation
+- Web development and programming
+- Event planning and organization
+- Leadership and team management
+- Communication and teamwork
+- Digital marketing and media
+- Building professional and social networks
+- Gaining practical experience in a global organization
+
+
+
+الانضمام للنادي متاح لجميع طالبات جامعة الملك عبدالعزيز وليس فقط كلية الحاسبات.
+The club is open to all female students at King Abdulaziz University, not only Computer Science students.
+
+
+Departments:
+- Human Resources Department: Responsible for managing members and organizing internal procedures.
+- Media and Marketing Department: Focuses on the club's visual identity and media communications.
+- Public Relations Department: The club's public face and primarily responsible for the success of the projects.
+- Tech Department: The club's digital brain, ensuring our digital presence.
+- Project Management Department: The department that organizes and monitors project progress to ensure optimal presentation.
+
+الأقسام:
+- قسم الموارد البشرية: مسؤول عن إدارة الأعضاء وتنظيم الإجراءات الداخلية.
+- قسم الإعلام والتسويق: يهتم بالهوية البصرية والتواصل الإعلامي للنادي.
+- قسم العلاقات العامة: الواجهة الخارجية للنادي والمسؤول الأول لنجاح مشاريع النادي.
+- قسم التقنية: العقل الرقمي للنادي ويضمن الحضور الرقمي في الساحة.
+- قسم إدارة المشاريع: القسم المنظم والمراقب لسير عمل المشاريع لضمان عرضها بأبهى صورة.
+
